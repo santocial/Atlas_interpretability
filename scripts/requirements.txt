@@ -1,0 +1,6 @@
+# Extra packages the scripts need (the atlas_interpretability package installs its own)
+monai
+nibabel
+scikit-learn
+openpyxl
+tqdm
